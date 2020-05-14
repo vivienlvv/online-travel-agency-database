@@ -6,7 +6,7 @@ public class DatabaseConnection {
 	
 	private static final String url = "jdbc:postgresql://comp421.cs.mcgill.ca:5432/cs421";
 	private static final String user = "cs421g55";
-	private static final String password = "cs421h4H4";
+	private static final String password = "password";
 	public static Connection con;
 	public static Statement statement;
 	
