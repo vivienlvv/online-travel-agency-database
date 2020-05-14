@@ -1,5 +1,4 @@
 package sqlProject;
-
 import java.sql.* ;
 
 public class DatabaseConnection {
